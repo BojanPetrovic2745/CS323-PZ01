@@ -1,0 +1,35 @@
+﻿  main.c
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(53): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(106): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(106): warning C4024: 'sacuvajPodizanje': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(116): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(116): warning C4024: 'sacuvajPodizanje': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(133): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(133): warning C4024: 'sacuvajPodizanje': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(146): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(146): warning C4024: 'sacuvajPodizanje': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(166): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(166): warning C4024: 'sacuvajUplatu': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(179): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(179): warning C4024: 'citaj': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(194): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(194): warning C4024: 'izbrisi': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(255): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(255): warning C4024: 'sacuvajPodizanje': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(265): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(265): warning C4024: 'sacuvajPodizanje': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(284): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(284): warning C4024: 'sacuvajPodizanje': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(297): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(297): warning C4024: 'sacuvajPodizanje': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(317): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(317): warning C4024: 'sacuvajUplatu': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(331): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(331): warning C4024: 'citaj': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(344): warning C4047: 'function': 'char' differs in levels of indirection from 'char [18]'
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(344): warning C4024: 'izbrisi': different types for formal and actual parameter 1
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(366): warning C4028: formal parameter 1 different from declaration
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(373): warning C4028: formal parameter 1 different from declaration
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(379): warning C4028: formal parameter 1 different from declaration
+c:\users\bojan petrovic\source\repos\cs323-pz-bojanpetrovic2745\cs323-pz-bojanpetrovic2745\main.c(384): warning C4028: formal parameter 1 different from declaration
+  CS323-PZ-BojanPetrovic2745.vcxproj -> C:\Users\Bojan Petrovic\source\repos\CS323-PZ-BojanPetrovic2745\Debug\CS323-PZ-BojanPetrovic2745.exe
